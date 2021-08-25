@@ -24,7 +24,6 @@ public class Match {
     private String matchWinner;
     private String result;
     private String resultMargin;
-    private String method;
     private String umpire1;
     private String umpire2;
 }

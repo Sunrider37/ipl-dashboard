@@ -6,8 +6,8 @@ import lombok.Setter;
 @Setter
 @Getter
 public class MatchInput {
-   private String id;
-   private String city;
+    private String id;
+    private String city;
     private String date;
     private String player_of_match;
     private String venue;
